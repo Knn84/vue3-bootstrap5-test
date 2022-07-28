@@ -11,6 +11,9 @@ import cards from './components/cards.vue'
   <jumbotron />
   <CTA />
   <cards />
+
+
+
 </template>
 
     <style scoped>
