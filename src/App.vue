@@ -1,6 +1,6 @@
 <script setup>
 import navbar from './components/navbar.vue'
-import jumbotron from './components/jumbotron.vue'
+import top from './components/top.vue'
 import CTA from './components/CTA.vue'
 import cards from './components/cards.vue'
 </script>
@@ -8,7 +8,7 @@ import cards from './components/cards.vue'
 <template>
 
   <navbar />
-  <jumbotron />
+  <top />
   <CTA />
   <cards />
 
